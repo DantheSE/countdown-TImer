@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(189, 115, 176);
+}
+
+.general {
+  display: flex;
+  justify-content: space-around;
+  text-align: justify;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 70px;
+}
+
+.iphonepic {
+  border-radius: 15px;
+  width: 600px;
+  margin-right: -30px;
+}
+
+.descr {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.desdiv {
+  width: auto;
+  max-width: 500px;
+  position: relative;
+}
+
+.timer {
+  display: flex;
+  justify-content: space-around;
+}
+
+p,
+h1,
+span {
+  color: rgb(82, 41, 136);
+  font-family: Arial, Helvetica, sans-serif;
+}
